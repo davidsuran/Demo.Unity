@@ -1,0 +1,7 @@
+{
+    "idle":"walk_animation",
+    "walk":"walk_animation",
+    "prepareAttack":"gun_animation",
+    "attack":"",
+    "death":"dead_animation"
+}

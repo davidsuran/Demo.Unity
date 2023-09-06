@@ -1,0 +1,17 @@
+{
+    "name": "Unsorted",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c4327976fd6e0d9478b8b4f436b39ea7",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

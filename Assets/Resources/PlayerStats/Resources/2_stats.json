@@ -1,0 +1,8 @@
+{
+    "healthPoints":150,
+    "actionPoints":110,
+    "attack":200,
+    "defense":50,
+    "speed":5,
+    "cost":1
+}

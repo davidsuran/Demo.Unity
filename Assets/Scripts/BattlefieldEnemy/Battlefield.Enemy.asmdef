@@ -1,0 +1,17 @@
+{
+    "name": "Battlefield.Enemy",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2053874998d6d7f4b8ed79cd4474c34b",
+        "GUID:c4327976fd6e0d9478b8b4f436b39ea7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

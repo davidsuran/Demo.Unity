@@ -1,0 +1,5 @@
+{
+    "weapons":["Sniper", "Pistol"],
+    "heal":"Small",
+    "grenade":["Stun"]
+}
